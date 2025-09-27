@@ -1,0 +1,10 @@
+{
+  "squat": "Knie-dominant (Squat)",
+  "hinge": "Hüft-dominant (Hinge)",
+  "push_h": "Oberkörper-Druck (Horizontal)",
+  "push_v": "Oberkörper-Druck (Vertikal)",
+  "pull_h": "Oberkörper-Zug (Horizontal)",
+  "pull_v": "Oberkörper-Zug (Vertikal)",
+  "carry_core": "Carries & Core",
+  "power": "Power/Olympisch"
+}

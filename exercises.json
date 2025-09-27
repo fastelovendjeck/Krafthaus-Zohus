@@ -1,0 +1,537 @@
+[
+  {
+    "name": "Back Squat",
+    "pattern": "squat",
+    "muscle": "Quadrizeps/Gluteus",
+    "equip": [
+      "barbell"
+    ]
+  },
+  {
+    "name": "Front Squat",
+    "pattern": "squat",
+    "muscle": "Quadrizeps/Core",
+    "equip": [
+      "barbell"
+    ]
+  },
+  {
+    "name": "Zercher Squat",
+    "pattern": "squat",
+    "muscle": "Quadrizeps/Core",
+    "equip": [
+      "barbell"
+    ]
+  },
+  {
+    "name": "Safety Bar Squat",
+    "pattern": "squat",
+    "muscle": "Quadrizeps/Gluteus",
+    "equip": [
+      "safetybar",
+      "barbell"
+    ]
+  },
+  {
+    "name": "Box Squat",
+    "pattern": "squat",
+    "muscle": "Hintere Kette/Quadrizeps",
+    "equip": [
+      "barbell",
+      "box"
+    ]
+  },
+  {
+    "name": "Bulgarian Split Squat",
+    "pattern": "squat",
+    "muscle": "Quadrizeps/Gluteus",
+    "equip": [
+      "dumbbell",
+      "barbell",
+      "body"
+    ]
+  },
+  {
+    "name": "Walking Lunges",
+    "pattern": "squat",
+    "muscle": "Quadrizeps/Gluteus",
+    "equip": [
+      "dumbbell",
+      "barbell",
+      "body"
+    ]
+  },
+  {
+    "name": "Reverse Lunges",
+    "pattern": "squat",
+    "muscle": "Quadrizeps/Gluteus",
+    "equip": [
+      "dumbbell",
+      "barbell",
+      "body"
+    ]
+  },
+  {
+    "name": "Lateral Lunges",
+    "pattern": "squat",
+    "muscle": "Adduktoren/Gluteus",
+    "equip": [
+      "dumbbell",
+      "kettlebell",
+      "body"
+    ]
+  },
+  {
+    "name": "Step-Ups",
+    "pattern": "squat",
+    "muscle": "Quadrizeps/Gluteus",
+    "equip": [
+      "dumbbell",
+      "barbell",
+      "box"
+    ]
+  },
+  {
+    "name": "Hack Squat (Maschine)",
+    "pattern": "squat",
+    "muscle": "Quadrizeps",
+    "equip": [
+      "machine"
+    ]
+  },
+  {
+    "name": "Cossack Squat",
+    "pattern": "squat",
+    "muscle": "Adduktoren/Gluteus",
+    "equip": [
+      "kettlebell",
+      "dumbbell",
+      "body"
+    ]
+  },
+  {
+    "name": "Deadlift",
+    "pattern": "hinge",
+    "muscle": "Gluteus/Beinbeuger",
+    "equip": [
+      "barbell"
+    ]
+  },
+  {
+    "name": "Romanian Deadlift",
+    "pattern": "hinge",
+    "muscle": "Beinbeuger/Gluteus",
+    "equip": [
+      "barbell",
+      "dumbbell"
+    ]
+  },
+  {
+    "name": "Trap Bar Deadlift",
+    "pattern": "hinge",
+    "muscle": "Hintere Kette",
+    "equip": [
+      "trapbar"
+    ]
+  },
+  {
+    "name": "Sumo Deadlift",
+    "pattern": "hinge",
+    "muscle": "Adduktoren/Beinbeuger",
+    "equip": [
+      "barbell"
+    ]
+  },
+  {
+    "name": "Deficit Deadlift",
+    "pattern": "hinge",
+    "muscle": "Beinbeuger/Gluteus",
+    "equip": [
+      "barbell",
+      "plate"
+    ]
+  },
+  {
+    "name": "Snatch-Grip Deadlift",
+    "pattern": "hinge",
+    "muscle": "Oberer Rücken/Beinbeuger",
+    "equip": [
+      "barbell"
+    ]
+  },
+  {
+    "name": "Good Morning",
+    "pattern": "hinge",
+    "muscle": "Beinbeuger/Rückenstrecker",
+    "equip": [
+      "barbell"
+    ]
+  },
+  {
+    "name": "Hip Thrust",
+    "pattern": "hinge",
+    "muscle": "Gluteus",
+    "equip": [
+      "barbell",
+      "bench"
+    ]
+  },
+  {
+    "name": "Barbell Glute Bridge",
+    "pattern": "hinge",
+    "muscle": "Gluteus",
+    "equip": [
+      "barbell"
+    ]
+  },
+  {
+    "name": "Single-Leg Deadlift",
+    "pattern": "hinge",
+    "muscle": "Beinbeuger/Gluteus",
+    "equip": [
+      "dumbbell",
+      "kettlebell"
+    ]
+  },
+  {
+    "name": "Kettlebell Swing",
+    "pattern": "hinge",
+    "muscle": "Hintere Kette",
+    "equip": [
+      "kettlebell"
+    ]
+  },
+  {
+    "name": "LH Bankdrücken",
+    "pattern": "push_h",
+    "muscle": "Brust/Trizeps",
+    "equip": [
+      "barbell",
+      "bench"
+    ]
+  },
+  {
+    "name": "KH Bankdrücken",
+    "pattern": "push_h",
+    "muscle": "Brust/Trizeps",
+    "equip": [
+      "dumbbell",
+      "bench"
+    ]
+  },
+  {
+    "name": "Schrägbankdrücken",
+    "pattern": "push_h",
+    "muscle": "Obere Brust/Schulter",
+    "equip": [
+      "barbell",
+      "dumbbell",
+      "bench"
+    ]
+  },
+  {
+    "name": "Close-Grip Bench",
+    "pattern": "push_h",
+    "muscle": "Trizeps/Brust",
+    "equip": [
+      "barbell",
+      "bench"
+    ]
+  },
+  {
+    "name": "Dips (gewichtet)",
+    "pattern": "push_h",
+    "muscle": "Brust/Trizeps",
+    "equip": [
+      "dipbar",
+      "weightbelt"
+    ]
+  },
+  {
+    "name": "Langhantel Shoulder Press",
+    "pattern": "push_v",
+    "muscle": "Delts/Trizeps",
+    "equip": [
+      "barbell"
+    ]
+  },
+  {
+    "name": "Push Press",
+    "pattern": "push_v",
+    "muscle": "Delts/Trizeps",
+    "equip": [
+      "barbell"
+    ]
+  },
+  {
+    "name": "KH Overhead Press",
+    "pattern": "push_v",
+    "muscle": "Delts/Trizeps",
+    "equip": [
+      "dumbbell"
+    ]
+  },
+  {
+    "name": "Arnold Press",
+    "pattern": "push_v",
+    "muscle": "Delts",
+    "equip": [
+      "dumbbell"
+    ]
+  },
+  {
+    "name": "Landmine Press",
+    "pattern": "push_v",
+    "muscle": "Delts/Core",
+    "equip": [
+      "landmine"
+    ]
+  },
+  {
+    "name": "Floor Press",
+    "pattern": "push_h",
+    "muscle": "Trizeps/Brust",
+    "equip": [
+      "barbell",
+      "dumbbell"
+    ]
+  },
+  {
+    "name": "Barbell Row",
+    "pattern": "pull_h",
+    "muscle": "Lat/Traps",
+    "equip": [
+      "barbell"
+    ]
+  },
+  {
+    "name": "Pendlay Row",
+    "pattern": "pull_h",
+    "muscle": "Lat/Rückenstrecker",
+    "equip": [
+      "barbell"
+    ]
+  },
+  {
+    "name": "Dumbbell Rudern",
+    "pattern": "pull_h",
+    "muscle": "Lat/Rhomboiden",
+    "equip": [
+      "dumbbell",
+      "bench"
+    ]
+  },
+  {
+    "name": "Gorilla Rows",
+    "pattern": "pull_h",
+    "muscle": "Lat/Core",
+    "equip": [
+      "kettlebell",
+      "dumbbell"
+    ]
+  },
+  {
+    "name": "Seal Row",
+    "pattern": "pull_h",
+    "muscle": "Lat/Rhomboiden",
+    "equip": [
+      "barbell",
+      "dumbbell",
+      "bench"
+    ]
+  },
+  {
+    "name": "Chest-Supported Row",
+    "pattern": "pull_h",
+    "muscle": "Lat/Rhomboiden",
+    "equip": [
+      "machine",
+      "bench",
+      "dumbbell"
+    ]
+  },
+  {
+    "name": "Kabelrudern",
+    "pattern": "pull_h",
+    "muscle": "Lat/Rhomboiden",
+    "equip": [
+      "cable"
+    ]
+  },
+  {
+    "name": "Pull-Ups",
+    "pattern": "pull_v",
+    "muscle": "Lat/Bizeps",
+    "equip": [
+      "pullupbar"
+    ]
+  },
+  {
+    "name": "Chin-Ups",
+    "pattern": "pull_v",
+    "muscle": "Bizeps/Lat",
+    "equip": [
+      "pullupbar"
+    ]
+  },
+  {
+    "name": "Lat Pulldown",
+    "pattern": "pull_v",
+    "muscle": "Lat/Rhomboiden",
+    "equip": [
+      "machine"
+    ]
+  },
+  {
+    "name": "Farmer’s Carry",
+    "pattern": "carry_core",
+    "muscle": "Core/Griffkraft",
+    "equip": [
+      "dumbbell",
+      "kettlebell",
+      "trapbar"
+    ]
+  },
+  {
+    "name": "Suitcase Carry",
+    "pattern": "carry_core",
+    "muscle": "Obliques/Core",
+    "equip": [
+      "dumbbell",
+      "kettlebell"
+    ]
+  },
+  {
+    "name": "Front Rack Carry",
+    "pattern": "carry_core",
+    "muscle": "Oberer Rücken/Core",
+    "equip": [
+      "barbell",
+      "kettlebell"
+    ]
+  },
+  {
+    "name": "Overhead Carry",
+    "pattern": "carry_core",
+    "muscle": "Schultern/Core",
+    "equip": [
+      "dumbbell",
+      "kettlebell"
+    ]
+  },
+  {
+    "name": "Turkish Get-Up",
+    "pattern": "carry_core",
+    "muscle": "Schulter/Core",
+    "equip": [
+      "kettlebell"
+    ]
+  },
+  {
+    "name": "Pallof Press",
+    "pattern": "carry_core",
+    "muscle": "Obliques/Anti-Rotation",
+    "equip": [
+      "cable",
+      "band"
+    ]
+  },
+  {
+    "name": "Ab Wheel Rollout",
+    "pattern": "carry_core",
+    "muscle": "Bauch/Rückenstrecker",
+    "equip": [
+      "abwheel"
+    ]
+  },
+  {
+    "name": "Hanging Straight Leg Raises",
+    "pattern": "carry_core",
+    "muscle": "Unterer Bauch/Hüftbeuger",
+    "equip": [
+      "pullupbar"
+    ]
+  },
+  {
+    "name": "Dead Bug",
+    "pattern": "carry_core",
+    "muscle": "Core/Koordination",
+    "equip": [
+      "body"
+    ]
+  },
+  {
+    "name": "Copenhagen Plank",
+    "pattern": "carry_core",
+    "muscle": "Adduktoren/Core",
+    "equip": [
+      "body",
+      "bench"
+    ]
+  },
+  {
+    "name": "Snatch",
+    "pattern": "power",
+    "muscle": "Ganzkörper/Explosivkraft",
+    "equip": [
+      "barbell"
+    ]
+  },
+  {
+    "name": "Clean",
+    "pattern": "power",
+    "muscle": "Ganzkörper/Explosivkraft",
+    "equip": [
+      "barbell"
+    ]
+  },
+  {
+    "name": "Clean & Jerk",
+    "pattern": "power",
+    "muscle": "Ganzkörper/Power",
+    "equip": [
+      "barbell"
+    ]
+  },
+  {
+    "name": "Power Clean",
+    "pattern": "power",
+    "muscle": "Hintere Kette/Traps",
+    "equip": [
+      "barbell"
+    ]
+  },
+  {
+    "name": "High Pull",
+    "pattern": "power",
+    "muscle": "Traps/Power",
+    "equip": [
+      "barbell"
+    ]
+  },
+  {
+    "name": "Thruster",
+    "pattern": "power",
+    "muscle": "Quadrizeps/Schultern",
+    "equip": [
+      "barbell",
+      "dumbbell"
+    ]
+  },
+  {
+    "name": "Landmine Squat to Press",
+    "pattern": "power",
+    "muscle": "Beine/Schultern",
+    "equip": [
+      "landmine"
+    ]
+  },
+  {
+    "name": "Sled Push/Drag",
+    "pattern": "power",
+    "muscle": "Beine/Core",
+    "equip": [
+      "sled"
+    ]
+  }
+]

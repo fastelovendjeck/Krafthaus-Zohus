@@ -1,0 +1,53 @@
+{
+  "squat": [
+    "pull_h",
+    "pull_v",
+    "carry_core",
+    "push_h",
+    "push_v"
+  ],
+  "hinge": [
+    "push_h",
+    "push_v",
+    "carry_core",
+    "pull_h",
+    "pull_v"
+  ],
+  "push_h": [
+    "pull_h",
+    "pull_v",
+    "carry_core",
+    "hinge"
+  ],
+  "push_v": [
+    "pull_h",
+    "pull_v",
+    "carry_core",
+    "hinge"
+  ],
+  "pull_h": [
+    "push_h",
+    "push_v",
+    "carry_core",
+    "squat"
+  ],
+  "pull_v": [
+    "push_h",
+    "push_v",
+    "carry_core",
+    "squat"
+  ],
+  "carry_core": [
+    "push_h",
+    "pull_h",
+    "push_v",
+    "pull_v",
+    "squat",
+    "hinge"
+  ],
+  "power": [
+    "pull_h",
+    "push_h",
+    "carry_core"
+  ]
+}
