@@ -1,7 +1,7 @@
 
 import streamlit as st, random
 
-st.set_page_config(page_title="Kraft-Planer • No Supersets", page_icon="🏋️", layout="wide")
+st.set_page_config(page_title="Krafthaus für zo Hus", page_icon="🏋️", layout="wide")
 
 EXERCISES = [
   {
